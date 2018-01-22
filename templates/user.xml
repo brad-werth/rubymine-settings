@@ -1,0 +1,20 @@
+<templateSet group="user">
+  <template name="dff" value="dynamic_form_field" description="dynamic_form_field" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="dffm" value="dynamic_form_field_module" description="dynamic_form_field_module" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="dffmi" value="dynamic_form_field_module_implementaion" description="dynamic_form_field_module_implementaion" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

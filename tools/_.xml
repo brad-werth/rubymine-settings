@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="railsdev" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="export" />
+      <option name="PARAMETERS" value="RAILS_DEV=true" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
