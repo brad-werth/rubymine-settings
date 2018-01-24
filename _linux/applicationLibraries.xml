@@ -5062,6 +5062,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/airbrake-ruby-2.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake-ruby (v2.8.0, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/airbrake-ruby-2.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/airbrake-ruby-2.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="akami (v1.2.2, RVM: ruby-1.8.7-p374) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/akami-1.2.2/lib" />
@@ -45210,6 +45218,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.7.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.7.1, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.7.1/exe" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v2.11.3, RVM: ruby-1.9.3-p551) [gem]">
