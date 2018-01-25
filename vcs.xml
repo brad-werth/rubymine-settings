@@ -714,6 +714,10 @@
           <option name="url" value="https://github.com/pat/thinking-sphinx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.iexposure.com:satorix/satorix-dashboard-rails.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/rails/" />
