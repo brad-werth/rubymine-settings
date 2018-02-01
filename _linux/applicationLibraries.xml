@@ -23614,6 +23614,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/ie_honeypot_field-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="ie_honeypot_field (v1.0.3, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ie_honeypot_field-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ie_honeypot_field-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ie_logger (v0.1.2, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/ie_logger-0.1.2/lib" />
