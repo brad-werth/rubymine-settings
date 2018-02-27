@@ -718,6 +718,10 @@
           <option name="url" value="git@gitlab.iexposure.com:satorix/satorix-dashboard-rails.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.iexposure.com:apps/crm-culturallyrespon-17122800.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/rails/" />
