@@ -3,6 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="compile" type="Bash" />
+      <mapping pattern="detect" type="Bash" />
+      <mapping pattern="release" type="Bash" />
       <mapping pattern=".ruby-gemset" type="PLAIN_TEXT" />
       <mapping pattern="a2addsite" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
