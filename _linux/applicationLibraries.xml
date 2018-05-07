@@ -32568,6 +32568,7 @@
     </library>
     <library name="json (v1.8.1, RVM: ruby-1.8.7-p374) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs18/json/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/tools" />
@@ -32577,6 +32578,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs18/json/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/json-1.8.1/tools" />
@@ -37704,12 +37706,14 @@
     </library>
     <library name="mysql2 (v0.2.6, RVM: ruby-1.8.7-p374) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs18/mysql2/0.2.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/benchmark" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs18/mysql2/0.2.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/mysql2-0.2.6/lib" />
@@ -49742,10 +49746,12 @@
     </library>
     <library name="rmagick (v2.13.2, RVM: ruby-1.8.7-p374) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs18/rmagick/2.13.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/rmagick-2.13.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/rmagick-2.13.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs18/rmagick/2.13.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/rmagick-2.13.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.8.7-p374/gems/rmagick-2.13.2/lib" />
       </SOURCES>
