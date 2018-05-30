@@ -10134,11 +10134,9 @@
     </library>
     <library name="bcrypt-ruby (v3.0.1, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/bcrypt-ruby-3.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/bcrypt-ruby-3.0.1/lib" />
       </SOURCES>
     </library>
@@ -21656,11 +21654,9 @@
     </library>
     <library name="ffi (v1.9.23, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ffi-1.9.23/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ffi-1.9.23/lib" />
       </SOURCES>
     </library>
@@ -34296,11 +34292,9 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/json-2.1.0/lib" />
       </SOURCES>
     </library>
@@ -39374,11 +39368,9 @@
     </library>
     <library name="mysql2 (v0.4.10, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/mysql2-0.4.10/lib" />
       </SOURCES>
     </library>
@@ -40636,11 +40628,9 @@
     </library>
     <library name="nio4r (v2.3.0, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nio4r-2.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nio4r-2.3.0/lib" />
       </SOURCES>
     </library>
@@ -41534,11 +41524,9 @@
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.8.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
@@ -42780,11 +42768,9 @@
     </library>
     <library name="passenger (v5.1.11, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/passenger-5.1.11/src/ruby_supportlib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/passenger/5.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/passenger-5.1.11/src/ruby_supportlib" />
       </SOURCES>
     </library>
@@ -43456,11 +43442,9 @@
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/pg-0.21.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/pg-0.21.0/lib" />
       </SOURCES>
     </library>
@@ -49634,11 +49618,9 @@
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
@@ -50776,11 +50758,9 @@
     </library>
     <library name="redcarpet (v3.2.3, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/redcarpet-3.2.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/redcarpet-3.2.3/lib" />
       </SOURCES>
     </library>
@@ -65258,11 +65238,9 @@
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/websocket-driver-0.6.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
     </library>
