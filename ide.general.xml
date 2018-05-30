@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="browserPath" value="C:\Program Files\Internet Explorer\IExplore.exe" />
     <option name="confirmExit" value="false" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
