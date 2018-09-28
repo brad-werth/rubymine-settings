@@ -9798,11 +9798,9 @@
     </library>
     <library name="bcrypt-ruby (v3.0.1, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/bcrypt-ruby-3.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/bcrypt-ruby-3.0.1/lib" />
       </SOURCES>
     </library>
@@ -12300,11 +12298,9 @@
     </library>
     <library name="capybara-webkit (v1.11.1, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/capybara-webkit/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/capybara-webkit-1.11.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/capybara-webkit/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/capybara-webkit-1.11.1/lib" />
       </SOURCES>
     </library>
@@ -17946,11 +17942,9 @@
     </library>
     <library name="eventmachine (v1.0.3, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/eventmachine/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/eventmachine-1.0.3/lib" />
       </SOURCES>
     </library>
@@ -35678,11 +35672,9 @@
     </library>
     <library name="mysql2 (v0.3.21, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/mysql2-0.3.21/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/mysql2-0.3.21/lib" />
       </SOURCES>
     </library>
@@ -37128,11 +37120,9 @@
     </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/nokogiri-1.6.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/nokogiri-1.6.8/lib" />
       </SOURCES>
     </library>
@@ -45444,11 +45434,9 @@
     </library>
     <library name="redcarpet (v3.2.3, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/redcarpet/3.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/redcarpet-3.2.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/redcarpet/3.2.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/redcarpet-3.2.3/lib" />
       </SOURCES>
     </library>
@@ -46190,16 +46178,14 @@
     </library>
     <library name="rmagick (v2.15.4, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/rmagick/2.15.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/deprecated" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/rmagick/2.15.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/deprecated" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rmagick-2.15.4/lib" />
       </SOURCES>
     </library>
     <library name="rmagick (v2.15.4, RVM: ruby-2.1.10) [gem]">
@@ -53802,11 +53788,9 @@
     </library>
     <library name="sqlite3 (v1.3.10, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/sqlite3/1.3.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/sqlite3-1.3.10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/sqlite3/1.3.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/sqlite3-1.3.10/lib" />
       </SOURCES>
     </library>
@@ -55294,11 +55278,9 @@
     </library>
     <library name="thin (v1.5.1, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/thin/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/thin-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/thin/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/thin-1.5.1/lib" />
       </SOURCES>
     </library>
