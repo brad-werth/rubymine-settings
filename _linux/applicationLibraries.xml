@@ -13982,6 +13982,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/src" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/build" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/buildout" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/resources" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/download_cache" />
       </CLASSES>
@@ -13993,6 +13994,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/src" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/build" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/buildout" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/resources" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/download_cache" />
       </SOURCES>
@@ -14004,6 +14006,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/src" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/build" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/images" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/buildout" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/resources" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/passenger-6.0.4/download_cache" />
       </excluded>
